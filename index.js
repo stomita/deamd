@@ -12,7 +12,7 @@ module.exports = function() {
       }
       this.push(data);
       cb();
-    },
+    };
     var flush = function(cb) {
       this.push(new Buffer("}()"));
       cb();
