@@ -1,6 +1,6 @@
 # DeAMD
 
-Gulp stream which transforms the UMD-style script to disable AMD detection
+Gulp stream transforming a UMD-style script to the one without AMD detection
 
 ## Objective
 
