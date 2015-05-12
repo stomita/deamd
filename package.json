@@ -1,7 +1,7 @@
 {
   "name": "deamd",
   "version": "1.0.0",
-  "description": "Gulp stream transforming a UMD-style script to the one without AMD detection",
+  "description": "A Gulp stream transforming a UMD-style script to the one without AMD detection",
   "main": "index.js",
   "author": "Shinichi Tomita <shinichi.tomita@gmail.com>",
   "license": "MIT",
